@@ -1,0 +1,17 @@
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\bin\Debug\net6.0-windows\Client.exe
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\bin\Debug\net6.0-windows\Client.deps.json
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\bin\Debug\net6.0-windows\Client.dll
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\bin\Debug\net6.0-windows\Client.pdb
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.csproj.AssemblyReference.cache
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.Form1.resources
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.csproj.GenerateResource.cache
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.AssemblyInfoInputs.cache
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.AssemblyInfo.cs
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.dll
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\refint\Client.dll
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.pdb
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\Client.genruntimeconfig.cache
+D:\Lập trình mạng căn bản\BT Tuan 3\Week3\Client\Client\obj\Debug\net6.0-windows\ref\Client.dll
