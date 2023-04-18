@@ -1,0 +1,48 @@
+D:\Lập trình mạng căn bản\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.exe
+D:\Lập trình mạng căn bản\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.deps.json
+D:\Lập trình mạng căn bản\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.runtimeconfig.json
+D:\Lập trình mạng căn bản\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.dll
+D:\Lập trình mạng căn bản\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.pdb
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.AssemblyReference.cache
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Form1.resources
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai1.resources
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.GenerateResource.cache
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.AssemblyInfoInputs.cache
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.AssemblyInfo.cs
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.dll
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\refint\Lab02.dll
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.pdb
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.genruntimeconfig.cache
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\ref\Lab02.dll
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai2.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.exe
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.deps.json
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.runtimeconfig.json
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.dll
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\bin\Debug\net6.0-windows\Lab02.pdb
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\bin\Debug\net6.0-windows\DotNetZip.dll
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.AssemblyReference.cache
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Form1.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai1.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai2.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai5.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.GenerateResource.cache
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.AssemblyInfoInputs.cache
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.AssemblyInfo.cs
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.CopyComplete
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.dll
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\refint\Lab02.dll
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.pdb
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.genruntimeconfig.cache
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\ref\Lab02.dll
+D:\Lập trình mạng căn bản\Lab02\Lab02\bin\Debug\net6.0-windows\DotNetZip.dll
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai5.resources
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.csproj.CopyComplete
+D:\Lập trình mạng căn bản\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai3.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai3.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai4.resources
+D:\Lập trình mạng căn bản\Thực hành\Lab02\Lab02\obj\Debug\net6.0-windows\Lab02.Lab2_Bai6.resources
